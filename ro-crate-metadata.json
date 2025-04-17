@@ -34,6 +34,9 @@
                     "@id": "data-quality-control/report.csv"
                 },
                 {
+                    "@id": "all-triples.ttl"
+                },
+                {
                     "@id": "data-quality-control/"
                 },
                 {
@@ -142,6 +145,11 @@
             "@label": "./data-quality-control/logfile",
             "@type": "File",
             "encodingFormat": "text/plain"
+        },
+        {
+            "@id": "all-triples.ttl", 
+            "@type": "File",
+            "encodingFormat": "text/turtle"
         },
         {
             "@id": "data-quality-control/report.csv",
