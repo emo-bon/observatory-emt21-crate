@@ -1,5 +1,5 @@
 WARNING:py_data_rules.rule_factory:missing columns in table so: {'ENA_accession_number_project'}
-WARNING:py_data_rules.rule_factory:excess columns in table so: {'data_owner_edmoid', 'data_contact_email', 'data_owner'}
+WARNING:py_data_rules.rule_factory:excess columns in table so: {'data_contact_email', 'data_owner_edmoid', 'data_owner'}
 WARNING:py_data_rules.rule_factory:excess columns in table ss: {'seq_batch'}
-WARNING:py_data_rules.rule_factory:excess columns in table wo: {'data_owner_edmoid', 'data_contact_email', 'data_owner'}
+WARNING:py_data_rules.rule_factory:excess columns in table wo: {'data_contact_email', 'data_owner_edmoid', 'data_owner'}
 WARNING:py_data_rules.rule_factory:excess columns in table ws: {'seq_batch'}

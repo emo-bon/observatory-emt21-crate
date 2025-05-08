@@ -9,6 +9,22 @@ source_mat_id error,sediment,sampling,source_mat_id,5,EMOBON_EMT21_So_5,source_m
 source_mat_id error,sediment,sampling,source_mat_id,6,EMOBON_EMT21_So_6,source_mat_id should match ^EMOBON_EMT21_So_211020_macro_2$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
 source_mat_id error,sediment,sampling,source_mat_id,7,EMOBON_EMT21_So_7,source_mat_id should match ^EMOBON_EMT21_So_211020_macro_3$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
 source_mat_id error,sediment,sampling,source_mat_id,8,EMOBON_EMT21_So_8,source_mat_id should match ^EMOBON_EMT21_So_211020_macro_4$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,9,EMOBON_EMT21_So_9,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_1$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,10,EMOBON_EMT21_So_10,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_2$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,11,EMOBON_EMT21_So_11,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_3$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,12,EMOBON_EMT21_So_12,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_4$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,13,EMOBON_EMT21_So_13,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_1$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,14,EMOBON_EMT21_So_14,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_2$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,15,EMOBON_EMT21_So_15,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_3$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,16,EMOBON_EMT21_So_16,source_mat_id should match ^EMOBON_EMT21_So_220420_macro_4$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,17,EMOBON_EMT21_So_17,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_1$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,18,EMOBON_EMT21_So_18,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_2$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,19,EMOBON_EMT21_So_19,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_3$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,20,EMOBON_EMT21_So_20,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_4$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,21,EMOBON_EMT21_So_21,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_1$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,22,EMOBON_EMT21_So_22,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_2$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,23,EMOBON_EMT21_So_23,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_3$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
+source_mat_id error,sediment,sampling,source_mat_id,24,EMOBON_EMT21_So_24,source_mat_id should match ^EMOBON_EMT21_So_221028_macro_4$,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,1,EMOBON_EMT21_Wa_1,source_mat_id should match ^EMOBON_EMT21_Wa_210825_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,2,EMOBON_EMT21_Wa_2,source_mat_id should match ^EMOBON_EMT21_Wa_210825_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,3,EMOBON_EMT21_Wa_3,source_mat_id should match ^EMOBON_EMT21_Wa_210825_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
@@ -54,5 +70,130 @@ source_mat_id error,water,sampling,source_mat_id,42,EMOBON_EMT21_Wa_42,source_ma
 source_mat_id error,water,sampling,source_mat_id,43,EMOBON_EMT21_Wa_43,source_mat_id should match ^EMOBON_EMT21_Wa_211216_NAum_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,44,EMOBON_EMT21_Wa_44,source_mat_id should match ^EMOBON_EMT21_Wa_211216_NAum_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,45,EMOBON_EMT21_Wa_45,source_mat_id should match ^EMOBON_EMT21_Wa_211216_NAum_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,46,EMOBON_EMT21_Wa_46,source_mat_id should match ^EMOBON_EMT21_Wa_220225_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,47,EMOBON_EMT21_Wa_47,source_mat_id should match ^EMOBON_EMT21_Wa_220225_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,48,EMOBON_EMT21_Wa_48,source_mat_id should match ^EMOBON_EMT21_Wa_220225_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,49,EMOBON_EMT21_Wa_49,source_mat_id should match ^EMOBON_EMT21_Wa_220225_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,50,EMOBON_EMT21_Wa_50,source_mat_id should match ^EMOBON_EMT21_Wa_220225_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,51,EMOBON_EMT21_Wa_51,source_mat_id should match ^EMOBON_EMT21_Wa_220225_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,52,EMOBON_EMT21_Wa_52,source_mat_id should match ^EMOBON_EMT21_Wa_220225_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,53,EMOBON_EMT21_Wa_53,source_mat_id should match ^EMOBON_EMT21_Wa_220225_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,54,EMOBON_EMT21_Wa_54,source_mat_id should match ^EMOBON_EMT21_Wa_220225_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,55,EMOBON_EMT21_Wa_55,source_mat_id should match ^EMOBON_EMT21_Wa_220225_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,56,EMOBON_EMT21_Wa_56,source_mat_id should match ^EMOBON_EMT21_Wa_220225_NAum_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,57,EMOBON_EMT21_Wa_57,source_mat_id should match ^EMOBON_EMT21_Wa_220225_NAum_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,58,EMOBON_EMT21_Wa_58,source_mat_id should match ^EMOBON_EMT21_Wa_220225_NAum_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,59,EMOBON_EMT21_Wa_59,source_mat_id should match ^EMOBON_EMT21_Wa_220225_NAum_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,60,EMOBON_EMT21_Wa_60,source_mat_id should match ^EMOBON_EMT21_Wa_220225_NAum_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,61,EMOBON_EMT21_Wa_61,source_mat_id should match ^EMOBON_EMT21_Wa_220420_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,62,EMOBON_EMT21_Wa_62,source_mat_id should match ^EMOBON_EMT21_Wa_220420_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,63,EMOBON_EMT21_Wa_63,source_mat_id should match ^EMOBON_EMT21_Wa_220420_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,64,EMOBON_EMT21_Wa_64,source_mat_id should match ^EMOBON_EMT21_Wa_220420_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,65,EMOBON_EMT21_Wa_65,source_mat_id should match ^EMOBON_EMT21_Wa_220420_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,66,EMOBON_EMT21_Wa_66,source_mat_id should match ^EMOBON_EMT21_Wa_220420_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,67,EMOBON_EMT21_Wa_67,source_mat_id should match ^EMOBON_EMT21_Wa_220420_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,68,EMOBON_EMT21_Wa_68,source_mat_id should match ^EMOBON_EMT21_Wa_220420_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,69,EMOBON_EMT21_Wa_69,source_mat_id should match ^EMOBON_EMT21_Wa_220420_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,70,EMOBON_EMT21_Wa_70,source_mat_id should match ^EMOBON_EMT21_Wa_220420_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,71,EMOBON_EMT21_Wa_71,source_mat_id should match ^EMOBON_EMT21_Wa_220420_NAum_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,72,EMOBON_EMT21_Wa_72,source_mat_id should match ^EMOBON_EMT21_Wa_220420_NAum_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,73,EMOBON_EMT21_Wa_73,source_mat_id should match ^EMOBON_EMT21_Wa_220420_NAum_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,74,EMOBON_EMT21_Wa_74,source_mat_id should match ^EMOBON_EMT21_Wa_220420_NAum_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,75,EMOBON_EMT21_Wa_75,source_mat_id should match ^EMOBON_EMT21_Wa_220420_NAum_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,76,EMOBON_EMT21_Wa_76,source_mat_id should match ^EMOBON_EMT21_Wa_220621_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,77,EMOBON_EMT21_Wa_77,source_mat_id should match ^EMOBON_EMT21_Wa_220621_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,78,EMOBON_EMT21_Wa_78,source_mat_id should match ^EMOBON_EMT21_Wa_220621_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,79,EMOBON_EMT21_Wa_79,source_mat_id should match ^EMOBON_EMT21_Wa_220621_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,80,EMOBON_EMT21_Wa_80,source_mat_id should match ^EMOBON_EMT21_Wa_220621_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,81,EMOBON_EMT21_Wa_81,source_mat_id should match ^EMOBON_EMT21_Wa_220621_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,82,EMOBON_EMT21_Wa_82,source_mat_id should match ^EMOBON_EMT21_Wa_220621_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,83,EMOBON_EMT21_Wa_83,source_mat_id should match ^EMOBON_EMT21_Wa_220621_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,84,EMOBON_EMT21_Wa_84,source_mat_id should match ^EMOBON_EMT21_Wa_220621_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,85,EMOBON_EMT21_Wa_85,source_mat_id should match ^EMOBON_EMT21_Wa_220621_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,86,EMOBON_EMT21_Wa_86,source_mat_id should match ^EMOBON_EMT21_Wa_220621_NAum_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,87,EMOBON_EMT21_Wa_87,source_mat_id should match ^EMOBON_EMT21_Wa_220621_NAum_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,88,EMOBON_EMT21_Wa_88,source_mat_id should match ^EMOBON_EMT21_Wa_220621_NAum_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,89,EMOBON_EMT21_Wa_89,source_mat_id should match ^EMOBON_EMT21_Wa_220621_NAum_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,90,EMOBON_EMT21_Wa_90,source_mat_id should match ^EMOBON_EMT21_Wa_220621_NAum_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,91,EMOBON_EMT21_Wa_91,source_mat_id should match ^EMOBON_EMT21_Wa_220824_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,92,EMOBON_EMT21_Wa_92,source_mat_id should match ^EMOBON_EMT21_Wa_220824_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,93,EMOBON_EMT21_Wa_93,source_mat_id should match ^EMOBON_EMT21_Wa_220824_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,94,EMOBON_EMT21_Wa_94,source_mat_id should match ^EMOBON_EMT21_Wa_220824_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,95,EMOBON_EMT21_Wa_95,source_mat_id should match ^EMOBON_EMT21_Wa_220824_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,96,EMOBON_EMT21_Wa_96,source_mat_id should match ^EMOBON_EMT21_Wa_220824_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,97,EMOBON_EMT21_Wa_97,source_mat_id should match ^EMOBON_EMT21_Wa_220824_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,98,EMOBON_EMT21_Wa_98,source_mat_id should match ^EMOBON_EMT21_Wa_220824_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,99,EMOBON_EMT21_Wa_99,source_mat_id should match ^EMOBON_EMT21_Wa_220824_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,100,EMOBON_EMT21_Wa_100,source_mat_id should match ^EMOBON_EMT21_Wa_220824_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,101,EMOBON_EMT21_Wa_101,source_mat_id should match ^EMOBON_EMT21_Wa_221028_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,102,EMOBON_EMT21_Wa_102,source_mat_id should match ^EMOBON_EMT21_Wa_221028_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,103,EMOBON_EMT21_Wa_103,source_mat_id should match ^EMOBON_EMT21_Wa_221028_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,104,EMOBON_EMT21_Wa_104,source_mat_id should match ^EMOBON_EMT21_Wa_221028_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,105,EMOBON_EMT21_Wa_105,source_mat_id should match ^EMOBON_EMT21_Wa_221028_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,106,EMOBON_EMT21_Wa_106,source_mat_id should match ^EMOBON_EMT21_Wa_221028_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,107,EMOBON_EMT21_Wa_107,source_mat_id should match ^EMOBON_EMT21_Wa_221028_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,108,EMOBON_EMT21_Wa_108,source_mat_id should match ^EMOBON_EMT21_Wa_221028_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,109,EMOBON_EMT21_Wa_109,source_mat_id should match ^EMOBON_EMT21_Wa_221028_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,110,EMOBON_EMT21_Wa_110,source_mat_id should match ^EMOBON_EMT21_Wa_221028_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,111,EMOBON_EMT21_Wa_111,source_mat_id should match ^EMOBON_EMT21_Wa_221214_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,112,EMOBON_EMT21_Wa_112,source_mat_id should match ^EMOBON_EMT21_Wa_221214_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,113,EMOBON_EMT21_Wa_113,source_mat_id should match ^EMOBON_EMT21_Wa_221214_200um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,114,EMOBON_EMT21_Wa_114,source_mat_id should match ^EMOBON_EMT21_Wa_221214_200um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,115,EMOBON_EMT21_Wa_115,source_mat_id should match ^EMOBON_EMT21_Wa_221214_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,116,EMOBON_EMT21_Wa_116,source_mat_id should match ^EMOBON_EMT21_Wa_221214_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,117,EMOBON_EMT21_Wa_117,source_mat_id should match ^EMOBON_EMT21_Wa_221214_3um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,118,EMOBON_EMT21_Wa_118,source_mat_id should match ^EMOBON_EMT21_Wa_221214_3um_3$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,119,EMOBON_EMT21_Wa_119,source_mat_id should match ^EMOBON_EMT21_Wa_221214_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
+source_mat_id error,water,sampling,source_mat_id,120,EMOBON_EMT21_Wa_120,source_mat_id should match ^EMOBON_EMT21_Wa_221214_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 datatype mismatch,sediment,observatory,organization,1,"Estación de Ciencias Mariñas de Toralla - Centre of Marine Research, University of Vigo",\,/github/workspace/logsheets/filtered/sediment_observatory.csv,EMOBONList,mandatory
+missing value,sediment,sampling,arr_date_seq,17,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,arr_date_seq,18,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,arr_date_seq,21,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,arr_date_seq,22,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,samp_size_mass,9,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,10,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,11,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,12,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,13,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,14,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,15,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,16,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,17,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,18,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,19,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,20,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,21,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,22,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,23,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,samp_size_mass,24,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDFloat,mandatory
+missing value,sediment,sampling,ship_date_seq,17,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,ship_date_seq,18,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,ship_date_seq,21,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
+missing value,sediment,sampling,ship_date_seq,22,<empty>,\,/github/workspace/logsheets/filtered/sediment_sampling.csv,XSDDate,mandatory
 datatype mismatch,water,observatory,organization,1,"Toralla Marine Science Station - Centre of Marine Research, University of Vigo",\,/github/workspace/logsheets/filtered/water_observatory.csv,EMOBONList,mandatory
+missing value,water,sampling,arr_date_seq,101,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,102,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,106,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,107,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,111,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,112,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,116,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,arr_date_seq,117,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,long_store,76,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,77,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,78,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,79,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,80,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,81,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,82,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,83,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,84,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,long_store,85,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
+missing value,water,sampling,ship_date_seq,101,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,102,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,106,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,107,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,111,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,112,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,116,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
+missing value,water,sampling,ship_date_seq,117,<empty>,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,mandatory
